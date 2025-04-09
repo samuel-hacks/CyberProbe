@@ -129,10 +129,8 @@ By using **CyberProbe**, learners will:
 Here’s what could be added in future versions of CyberProbe:
 
 - Real-time alerts when keylog events are detected  
-- Logging to a central SIEM system for analysis  
 - GUI interface using Tkinter or PyQt  
 - Encrypted keystroke logging for secure forensic review  
-- Integration with Wazuh or OSSEC for detection simulation  
 - Timing-based port scan detection to simulate Snort-style rule triggers  
 
 ---
